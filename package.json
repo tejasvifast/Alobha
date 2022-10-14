@@ -1,5 +1,5 @@
 {
-  "name": "projectxyz",
+  "name": "alobha",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pragyatiwarii123/projectXYZ.git"
+    "url": "git+https://github.com/tejasvifast/Alobha.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pragyatiwarii123/projectXYZ/issues"
+    "url": "https://github.com/tejasvifast/Alobha/issues"
   },
-  "homepage": "https://github.com/Pragyatiwarii123/projectXYZ#readme",
+  "homepage": "https://github.com/tejasvifast/Alobha#readme",
   "dependencies": {
     "aws-sdk": "^2.1145.0",
     "axios": "^0.27.2",
